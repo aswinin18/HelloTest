@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9983" started-at="2018-10-03T10:32:02Z" finished-at="2018-10-03T10:32:12Z">
+    <groups>
+    </groups>
+    <test name="Browser Test" duration-ms="9983" started-at="2018-10-03T10:32:02Z" finished-at="2018-10-03T10:32:12Z">
+      <class name="somepkg.OpenBrowser">
+        <test-method status="PASS" signature="openB()[pri:0, instance:somepkg.OpenBrowser@45820e51]" name="openB" duration-ms="9955" started-at="2018-10-03T16:02:02Z" finished-at="2018-10-03T16:02:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openB -->
+      </class> <!-- somepkg.OpenBrowser -->
+    </test> <!-- Browser Test -->
+  </suite> <!-- Suite -->
+</testng-results>
