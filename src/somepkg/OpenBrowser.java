@@ -9,7 +9,7 @@ public class OpenBrowser {
 	@Test
 	public void openB(){
 	//System.setProperty("webdriver.chrome.driver", ".\\chromedriver.exe");
-		System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "chromedriver");
 		WebDriver driver = new ChromeDriver();
     
 		driver.get("https://adman.livereachmedia.com/");
